@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTitJT1JmNGorc0hiV2p5S1R1MCtFZC9EclZ5UW0wUzM3L2VqcTBVUTNZM25aZXVxNFpPSnhEZzNOdTVIdlhwN3A3MVBScFN5U1JPbzlGenc0K3k2ZjluclBIVUlFc2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEzMTE2NDI5CWZpbGU6c2Nob29sLWFwcF8wLjAuNl94NjQtc2V0dXAubnNpcy56aXAKUG8ra1FHNW43eGtlWWd2ZUthWVQ5YzFQa0VlSm9zamd2SkxUK2psT1JjOXRpR214REJNa08wMW5PV2pDa2tqREpHOTVocjRSWGp6NjhvYTFKVnpnQlE9PQo=",
-      "url": "https://amatti.icolna.com/school-app_0.0.6_x64-setup.nsis.zip"
+      "url": "https://github.com/salmidiv/schoolApp/releases/download/v0.0.6/school-app_0.0.6_x64-setup.nsis.zip"
     }
   }
 }
