@@ -1,0 +1,11 @@
+{
+  "version": "0.0.6",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2024-04-02T12:21:07.931Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTitJT1JmNGorc0lzU1RrREpOYW1vWlV0VHJROW1JWnpqSTlBQ2VNSDRVTkQxTloxSlk5TTVTdGdycXFveXNCMGRxZDMvSlVkNnpnTlVkNE16d1JZMWJwRi9vK3BOb3dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzEyMjcwNzc2CWZpbGU6c2Nob29sLWFwcF8wLjAuNF94NjQtc2V0dXAubnNpcy56aXAKb0g3YUF1K3o1MWNQL0JBaHhMcVZWNHN5TVFWa3JqSDBpMlBIWVBpbEcrQ3pyWE1pYVoycjE1Rmg3Yy94WmVLZ2ZDQk42aTlnSzFyZFJ3WG05MzI4RFE9PQo=",
+      "url": "https://amatti.icolna.com/school-app_0.0.4_x64-setup.nsis.zip"
+    }
+  }
+}
